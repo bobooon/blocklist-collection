@@ -85255,7 +85255,6 @@
 ||sentinelpro.com^
 ||sentiotrade.com^
 ||sentizz.buzz^
-||sentry.io^
 ||sentry-build-laravel.sentry.dev^
 ||sentry-docs-git-patch-1.sentry.dev^
 ||sentry-docs-nc8v0r313.sentry.dev^
