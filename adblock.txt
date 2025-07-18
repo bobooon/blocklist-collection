@@ -1,27 +1,6 @@
 [AdBlock]
 ! Title: AdBlock
 
-||*ads.js*.*^
-||*pagead.js*.*^
-||analytics.pinterest.com^
-||c.apple.news^
-||cdn.pkmer.cn^
-||d425438857f7719a.apple.com^
-||dz.cdn-apple.com^
-||dzv2.apple.com^
-||edc2ceaa4f78956.apple.com^
-||init.gc.apple.com^
-||logismartactions.uservoice.com^
-||logitech.uservoice.com^
-||news-assets.apple.com^
-||news-edge.apple.com^
-||profile.gc.apple.com^
-||segment-box.com^
-||sprig.com^
-||static.gc.apple.com^
-||stocks-data-service.apple.com^
-||stocks-edge.apple.com^
-||wdg3.apple.com^
 ||0-38.com^
 ||0-size.com^
 ||000free.us^
@@ -83830,6 +83809,7 @@
 ||metrics-proxy-use1.na1.sentinelone.net^
 ||sentinelpro.com^
 ||sentiotrade.com^
+||sentry.io^
 ||sentry-build-laravel.sentry.dev^
 ||sentry-docs-git-patch-1.sentry.dev^
 ||sentry-docs-nc8v0r313.sentry.dev^
@@ -109054,6 +109034,7 @@
 ||dns.cloudfiction.eu^
 ||dns.233py.com.cdn.cloudflare.net^
 ||dns.cloudflare.com^
+||cloudflare-dns.com^
 ||cloudflare-gateway.com^
 ||api.cloudflareclient.com^
 ||cloudflareresolve.com^
@@ -110362,6 +110343,8 @@
 ||ibvpn.com^
 ||webproxy.ich-war-hier.de^
 ||icitek.com^
+||mask.icloud.com^
+||mask-h2.icloud.com^
 ||lab.clever.icp-seigyo.com^
 ||icpsuawn1zy5amys.com^
 ||tienpham.id.vn^
@@ -112404,6 +112387,7 @@
 ||t-dz.com^
 ||dns.t-ipnet.de^
 ||dns.t53.de^
+||tailscale.com^
 ||talk2m.com^
 ||mass.prep.tanenbaumchat.org^
 ||please-man-i-need-it-just-watch-dexterrrr.tar.nz^
